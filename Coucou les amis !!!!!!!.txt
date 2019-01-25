@@ -1,2 +1,7 @@
 najla : je viens de modifier le fichier 
+<<<<<<< HEAD
 toto
+=======
+jun: je le modifie aussi
+najla : kikou
+>>>>>>> 3828b04893eba3e86e7250c108e0bd24943af20b
